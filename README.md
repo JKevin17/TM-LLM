@@ -44,7 +44,7 @@ pip install -r requirements.txt
 These two public datasets are under `.ISCC_2025/dataset/net_traffic/Abilene` and `.ISCC_2025/dataset/net_traffic/GEANT`. To access these datasets, you can clone the entire project repository using the following Git command:
 
 ```bash
-git clone https://github.com/FILingK/TM-LLM.git
+git clone https://github.com/JKevin17/TM-LLM.git
 ```
 
 ## LLM settings

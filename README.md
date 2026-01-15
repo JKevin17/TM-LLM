@@ -30,7 +30,8 @@ Use python 3.10 from MiniConda
 - scipy==1.7.3
 - statsmodels==0.13.2
 - sympy==1.11.1
-- transformers==4.30.1
+- torch==2.1.2
+- transformers==4.46.0
 
 To install all dependencies:
 ```
